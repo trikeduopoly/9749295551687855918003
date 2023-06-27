@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038176992379",
+    "project_id": "blac-chyna-onlyfans-earnings",
+    "storage_bucket": "blac-chyna-onlyfans-earnings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038176992379:android:3cb0d9c8bf4ed6eb6876de",
+        "android_client_info": {
+          "package_name": "com.blacchynaonlyfansearnings.toponlyfansearners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038176992379-nnmv75nekcdrppldri0ndt2h5g56b2s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiWIVgQFVy1kNhECti3XjDnV-QU0kSw_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038176992379-nnmv75nekcdrppldri0ndt2h5g56b2s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
